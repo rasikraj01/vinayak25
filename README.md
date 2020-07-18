@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hola Amigo 👋
 
-<!--
-**vinayak25/vinayak25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<a href="www.linkedin.com/in/vinayak-sarawagi">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://twitter.com/vinayak2506">
+<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
+<!-- <a href="https://www.instagram.com/timoliver">
+<img src="https://www.instagram.com/vinayak2506/" alt="Instagram" /></a>  -->
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Software Engineer at [Squareboat](https://github.com/squareboat)
+- ✍️ Author of [nestjs-boilerplate](https://github.com/squareboat/nestjs-boilerplate), [easy-router](https://github.com/vinayak25/easy-router) and many super cool upcoming projects
+- Contributed to [sneaker](https://github.com/squareboat/sneaker), [instamojo-nodejs](https://github.com/Instamojo/instamojo-nodejs)
+- 🏗️ Currently working on some open source projects.
+- ❤️ Newly found love in NestJS. Laravel rocks!
+- 💬 Ask me about: literraly anything.
+- 🤔 Looking to help with any idea that you might have. Literraly Anything!
+- 📫 Want to connect? Ping me on [🐦 twitter](https://twitter.com/vinayak2506), [💼 linkedin](www.linkedin.com/in/vinayak-sarawagi)
