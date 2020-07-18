@@ -11,7 +11,7 @@
 
 - 🧑‍💻 Software Engineer at [Squareboat](https://github.com/squareboat)
 - ✍️ Author of [nestjs-boilerplate](https://github.com/squareboat/nestjs-boilerplate), [easy-router](https://github.com/vinayak25/easy-router) and many super cool upcoming projects
-- Contributed to [sneaker](https://github.com/squareboat/sneaker), [instamojo-nodejs](https://github.com/Instamojo/instamojo-nodejs)
+- 🧑‍🏭 Contributed to [sneaker](https://github.com/squareboat/sneaker), [instamojo-nodejs](https://github.com/Instamojo/instamojo-nodejs)
 - 🏗️ Currently working on some open source projects.
 - ❤️ Newly found love in NestJS. Laravel rocks!
 - 💬 Ask me about: literraly anything.
