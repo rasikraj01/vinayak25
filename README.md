@@ -1,7 +1,7 @@
 ### Hola Amigo 👋
 
 <p>
-<a href="www.linkedin.com/in/vinayak-sarawagi">
+<a href="https://linkedin.com/in/vinayak-sarawagi">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
 <a href="https://twitter.com/vinayak2506">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
@@ -16,4 +16,4 @@
 - ❤️ Newly found love in NestJS. Laravel rocks!
 - 💬 Ask me about: literraly anything.
 - 🤔 Looking to help with any idea that you might have. Literraly Anything!
-- 📫 Want to connect? Ping me on [🐦 twitter](https://twitter.com/vinayak2506), [💼 linkedin](www.linkedin.com/in/vinayak-sarawagi)
+- 📫 Want to connect? Ping me on [🐦 twitter](https://twitter.com/vinayak2506), [💼 linkedin](https://linkedin.com/in/vinayak-sarawagi)
