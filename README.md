@@ -1,4 +1,4 @@
-### Hola Amigo 👋
+<img src="https://media.giphy.com/media/mW05nwEyXLP0Y/giphy.gif" width="300">
 
 <p>
 <a href="https://linkedin.com/in/vinayak-sarawagi">
