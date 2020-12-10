@@ -11,6 +11,8 @@
 - 🧑‍💻 Software Engineer at [Squareboat](https://github.com/squareboat)
 - ✍️ Author of 
   - [nestjs-boilerplate](https://github.com/squareboat/nestjs-boilerplate), 
+  - [nest-queue](https://github.com/squareboat/nest-queue)
+  - [nest-events](https://github.com/squareboat/nest-events)
   - [nest-storage](https://github.com/squareboat/nest-storage), 
   - [eyewitness](https://github.com/squareboat/nest-eyewitness),
   - [mailman](https://github.com/squareboat/nest-mailman),
